@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDEAAAAAAAAwMQAAAAAAADIhAAAAAAAAMiEAAAAAAAATMQIAAAAAIBMRAgAAAAAgEREDAAAAABIRESEAAAAAEhERIQAAAAASEREhAAAAABIRESEAAAAAIBERAgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pro_dcha"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgERECAAAAABIRESEAAAAAEhERIQAAAAASEREhAAAAABIRESEAAAAAIBERAwAAAAAgExECAAAAAAATMQIAAAAAADIhAAAAAAAAMiEAAAAAAAAwMQAAAAAAADAxAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pro_izqda"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
